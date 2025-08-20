@@ -12,4 +12,5 @@
 - Este es mi primer contacto con github y cosas mas orientadas a la programacion que no sea html o css.
 - Tengo un caniche que se llama Cofi.
 - Voy al gimnasio y hago voley en el taller de la universidad.
+
 ![Foto Mia y de mi perro](./CofiYYoedited.jpg)
